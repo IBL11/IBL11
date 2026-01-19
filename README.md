@@ -25,8 +25,8 @@ I am motivated to grow, improve, and develop a solid foundation for a future car
 ## 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IBL11&show_icons=true&theme=dark&hide_border=true" width="49%" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBL11&layout=compact&theme=dark&hide_border=true" width="49%" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IBL11&show_icons=true&theme=dark&hide_border=true" width="49%" height="230"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBL11&layout=compact&theme=dark&hide_border=true" width="49%" height="230" />
 </p>
 
 
