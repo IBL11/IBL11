@@ -29,7 +29,7 @@ I am  IT Undergraduate passionate about Data Analytics and interested in Data Sc
 
 ### 🗄️ Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,mssql" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" height="45"/>
 </p>
 
