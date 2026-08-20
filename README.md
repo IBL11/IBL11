@@ -19,7 +19,7 @@ I am  IT Undergraduate passionate about Data Analytics and interested in Data Sc
 
 ### 👩‍💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,java,c,cpp,js" />
+  <img src="https://skillicons.dev/icons?i=python,r,java,c,js" />
 </p>
 
 ### 🌐 Web Development
@@ -48,7 +48,7 @@ I am  IT Undergraduate passionate about Data Analytics and interested in Data Sc
 
 ### 🛠️ DevOps, Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,eclipse" />
 </p>
 
 ### 🎨 Design & UI/UX
